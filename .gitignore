@@ -1,2 +1,28 @@
+# Python cache
 __pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Large generated files (optional)
+*.sqlite
+*.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
